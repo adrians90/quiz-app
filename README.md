@@ -10,7 +10,9 @@ https://react.dev/reference/react/useReducer
 
 https://adrians90.github.io/quiz-app/
 
-**To run locally: npm run start , npm run server** The app requires the mock server hosting the questions to be set up in order to run.
+**To run locally: npm run start , npm run server** 
+
+The app requires the mock server hosting the questions to be set up in order to run.
 
 
 
